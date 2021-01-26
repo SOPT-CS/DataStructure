@@ -44,8 +44,7 @@
 ## 목차
 
 1. **해시 테이블**
-
-
+2. **시간복잡도**, **스택**, **큐**, **연결리스트**
 
 <br>
 
@@ -61,4 +60,5 @@
 
 |           주차            |               Sangsu               |             Jeonggyun              | 
 | :-----------------------: | :-------------------------------: | :-------------------------------: |
-| 2021.01.21 (1주차 목요일) | [[자료구조] 해시테이블 with JavaScript](https://overcome-the-limits.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94-with-JavaScript) | [:link:](./dh/week_1/Thursday.md) | 
+| 2021.01.21 (1주차 목요일) | [[자료구조] 해시테이블 with JavaScript](https://overcome-the-limits.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94-with-JavaScript) |  | 
+| 2021.01.28 (2주차 목요일) | [[자료구조] 시간복잡도 with JavaScript](https://overcome-the-limits.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84-with-JavaScript) |  | 
